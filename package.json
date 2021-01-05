@@ -1,0 +1,33 @@
+{
+  "name": "dierreweb-gulp",
+  "version": "1.0.0",
+  "description": "Gulp dependencies for Dierreweb Drupal theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dierreweb/gulp"
+  },
+  "author": "Dierreweb",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "node-sass": "^5.0.0",
+    "postcss": "^8.2.2"
+  },
+  "browserslist": [
+    "last 5 versions", 
+    "ie >= 7"
+  ],
+  "dependencies": {}
+}
